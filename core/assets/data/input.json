@@ -1,0 +1,193 @@
+
+
+{
+UNBINDED:{ value: 0}
+MOVE_UP:{ value: 51}
+MOVE_LEFT:{ value: 29}
+MOVE_RIGHT:{ value: 32}
+MOVE_DOWN:{ value: 47}
+ACTION:{ value: 62}
+P2_MOVE_UP:{ value: 19}
+P2_MOVE_LEFT:{ value: 21}
+P2_MOVE_RIGHT:{ value: 22}
+P2_MOVE_DOWN:{ value: 20}
+P2_ACTION:{ value: 149}
+JOY_ACTION: { value: 1}
+JOY_ACTION: { value: 2}
+JOY_ACTION: { value: 3}
+JOY_ACTION: { value: 9}
+JOY_ACCEPT: { value: 5}
+JOY_PREVIOUS_OPTION: { value: 4}
+JOY_CANCEL: { value: 0}
+JOY_SHOW_INFO: { value: 8}
+JOY_PAUSE: { value: 9}
+CANCEL:{ value: 131}
+ACCEPT:{ value: 66}
+PREVIOUS_OPTION:{ value: 67}
+CHAT:{ value: 48}
+SHOW_INFO:{ value: 61}
+VOLUME_UP:{ value: 81}
+VOLUME_DOWN:{ value: 69}
+PAUSE:{ value: 44}
+HELP:{ value: 244}
+}
+
+/*
+	Use this values as a reference for assigning each action a key/button.
+
+	key/value:	A	29
+	key/value:	ALT_LEFT	57
+	key/value:	ALT_RIGHT	58
+	key/value:	ANY_KEY	-1
+	key/value:	APOSTROPHE	75
+	key/value:	AT	77
+	key/value:	B	30
+	key/value:	BACK	4
+	key/value:	BACKSLASH	73
+	key/value:	BACKSPACE	67
+	key/value:	BUTTON_A	96
+	key/value:	BUTTON_B	97
+	key/value:	BUTTON_C	98
+	key/value:	BUTTON_CIRCLE	255
+	key/value:	BUTTON_L1	102
+	key/value:	BUTTON_L2	104
+	key/value:	BUTTON_MODE	110
+	key/value:	BUTTON_R1	103
+	key/value:	BUTTON_R2	105
+	key/value:	BUTTON_SELECT	109
+	key/value:	BUTTON_START	108
+	key/value:	BUTTON_THUMBL	106
+	key/value:	BUTTON_THUMBR	107
+	key/value:	BUTTON_X	99
+	key/value:	BUTTON_Y	100
+	key/value:	BUTTON_Z	101
+	key/value:	C	31
+	key/value:	CALL	5
+	key/value:	CAMERA	27
+	key/value:	CENTER	23
+	key/value:	CLEAR	28
+	key/value:	COLON	243
+	key/value:	COMMA	55
+	key/value:	CONTROL_LEFT	129
+	key/value:	CONTROL_RIGHT	130
+	key/value:	D	32
+	key/value:	DEL	67
+	key/value:	DOWN	20
+	key/value:	DPAD_CENTER	23
+	key/value:	DPAD_DOWN	20
+	key/value:	DPAD_LEFT	21
+	key/value:	DPAD_RIGHT	22
+	key/value:	DPAD_UP	19
+	key/value:	E	33
+	key/value:	END	132
+	key/value:	ENDCALL	6
+	key/value:	ENTER	66
+	key/value:	ENVELOPE	65
+	key/value:	EQUALS	70
+	key/value:	ESCAPE	131
+	key/value:	EXPLORER	64
+	key/value:	F	34
+	key/value:	F1	244
+	key/value:	F10	253
+	key/value:	F11	254
+	key/value:	F12	255
+	key/value:	F2	245
+	key/value:	F3	246
+	key/value:	F4	247
+	key/value:	F5	248
+	key/value:	F6	249
+	key/value:	F7	250
+	key/value:	F8	251
+	key/value:	F9	252
+	key/value:	FOCUS	80
+	key/value:	FORWARD_DEL	112
+	key/value:	G	35
+	key/value:	GRAVE	68
+	key/value:	H	36
+	key/value:	HEADSETHOOK	79
+	key/value:	HOME	3
+	key/value:	I	37
+	key/value:	INSERT	133
+	key/value:	J	38
+	key/value:	K	39
+	key/value:	L	40
+	key/value:	LEFT	21
+	key/value:	LEFT_BRACKET	71
+	key/value:	M	41
+	key/value:	MEDIA_FAST_FORWARD	90
+	key/value:	MEDIA_NEXT	87
+	key/value:	MEDIA_PLAY_PAUSE	85
+	key/value:	MEDIA_PREVIOUS	88
+	key/value:	MEDIA_REWIND	89
+	key/value:	MEDIA_STOP	86
+	key/value:	MENU	82
+	key/value:	META_ALT_LEFT_ON	16
+	key/value:	META_ALT_ON	2
+	key/value:	META_ALT_RIGHT_ON	32
+	key/value:	META_SHIFT_LEFT_ON	64
+	key/value:	META_SHIFT_ON	1
+	key/value:	META_SHIFT_RIGHT_ON	128
+	key/value:	META_SYM_ON	4
+	key/value:	MINUS	69
+	key/value:	MUTE	91
+	key/value:	N	42
+	key/value:	NOTIFICATION	83
+	key/value:	NUM	78
+	key/value:	NUM_0	7
+	key/value:	NUM_1	8
+	key/value:	NUM_2	9
+	key/value:	NUM_3	10
+	key/value:	NUM_4	11
+	key/value:	NUM_5	12
+	key/value:	NUM_6	13
+	key/value:	NUM_7	14
+	key/value:	NUM_8	15
+	key/value:	NUM_9	16
+	key/value:	NUMPAD_0	144
+	key/value:	NUMPAD_1	145
+	key/value:	NUMPAD_2	146
+	key/value:	NUMPAD_3	147
+	key/value:	NUMPAD_4	148
+	key/value:	NUMPAD_5	149
+	key/value:	NUMPAD_6	150
+	key/value:	NUMPAD_7	151
+	key/value:	NUMPAD_8	152
+	key/value:	NUMPAD_9	153
+	key/value:	O	43
+	key/value:	P	44
+	key/value:	PAGE_DOWN	93
+	key/value:	PAGE_UP	92
+	key/value:	PERIOD	56
+	key/value:	PICTSYMBOLS	94
+	key/value:	PLUS	81
+	key/value:	POUND	18
+	key/value:	POWER	26
+	key/value:	Q	45
+	key/value:	R	46
+	key/value:	RIGHT	22
+	key/value:	RIGHT_BRACKET	72
+	key/value:	S	47
+	key/value:	SEARCH	84
+	key/value:	SEMICOLON	74
+	key/value:	SHIFT_LEFT	59
+	key/value:	SHIFT_RIGHT	60
+	key/value:	SLASH	76
+	key/value:	SOFT_LEFT	1
+	key/value:	SOFT_RIGHT	2
+	key/value:	SPACE	62
+	key/value:	STAR	17
+	key/value:	SWITCH_CHARSET	95
+	key/value:	SYM	63
+	key/value:	T	48
+	key/value:	TAB	61
+	key/value:	U	49
+	key/value:	UNKNOWN	0
+	key/value:	UP	19
+	key/value:	V	50
+	key/value:	VOLUME_DOWN	25
+	key/value:	VOLUME_UP	24
+	key/value:	W	51
+	key/value:	X	52
+	key/value:	Y	53
+	key/value:	Z 
+*/

@@ -1,0 +1,542 @@
+
+black.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+black
+  rotate: false
+  xy: 0, 0
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 0
+
+sprites.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+health
+  rotate: false
+  xy: 64, 252
+  size: 16, 4
+  orig: 16, 4
+  offset: 0, 0
+  index: 0
+health
+  rotate: false
+  xy: 64, 248
+  size: 16, 4
+  orig: 16, 4
+  offset: 0, 0
+  index: 1
+health
+  rotate: false
+  xy: 64, 244
+  size: 16, 4
+  orig: 16, 4
+  offset: 0, 0
+  index: 2
+health
+  rotate: false
+  xy: 64, 240
+  size: 16, 4
+  orig: 16, 4
+  offset: 0, 0
+  index: 3
+twoplayericon
+  rotate: false
+  xy: 64, 224
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: 0
+enemy_a
+  rotate: false
+  xy: 0, 0
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: 0
+enemy_a
+  rotate: false
+  xy: 0, 15
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: 1
+enemy_b
+  rotate: false
+  xy: 0, 30
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: 0
+enemy_b
+  rotate: false
+  xy: 0, 45
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: 1
+enemy_c
+  rotate: false
+  xy: 0, 60
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: 0
+enemy_c
+  rotate: false
+  xy: 0, 75
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: 1
+enemy_d_c
+  rotate: false
+  xy: 0, 90
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: 0
+enemy_d_c
+  rotate: false
+  xy: 0, 105
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: 1
+enemy_d_a
+  rotate: false
+  xy: 0, 120
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: 0
+enemy_d_a
+  rotate: false
+  xy: 0, 135
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: 1
+enemy_d_b
+  rotate: false
+  xy: 0, 150
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: 0
+enemy_d_b
+  rotate: false
+  xy: 0, 165
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: 1
+wall_full
+  rotate: false
+  xy: 13, 0
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+wall_single
+  rotate: false
+  xy: 0, 180
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 0
+iron_full
+  rotate: false
+  xy: 13, 16
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+iron_single
+  rotate: false
+  xy: 0, 188
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 0
+water_full
+  rotate: false
+  xy: 13, 32
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+water_full
+  rotate: false
+  xy: 13, 48
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+water_single
+  rotate: false
+  xy: 0, 196
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 0
+water_single
+  rotate: false
+  xy: 0, 204
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 1
+water_single
+  rotate: false
+  xy: 0, 223
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 2
+ice_full
+  rotate: false
+  xy: 13, 80
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+grass_full
+  rotate: false
+  xy: 13, 96
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+eagle_full
+  rotate: false
+  xy: 13, 112
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+eagle_destroyed
+  rotate: false
+  xy: 13, 128
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+bullet_hit
+  rotate: false
+  xy: 0, 212
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: 0
+bullet_hit
+  rotate: false
+  xy: 13, 144
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: 1
+bullet_hit
+  rotate: false
+  xy: 13, 158
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+explosion
+  rotate: false
+  xy: 0, 212
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: 0
+explosion
+  rotate: false
+  xy: 13, 144
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: 1
+explosion
+  rotate: false
+  xy: 13, 158
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+explosion
+  rotate: false
+  xy: 29, 0
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: 3
+explosion
+  rotate: false
+  xy: 57, 0
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: 4
+field
+  rotate: false
+  xy: 13, 174
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+field
+  rotate: false
+  xy: 13, 190
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+pause
+  rotate: false
+  xy: 90, 0
+  size: 39, 7
+  orig: 39, 7
+  offset: 0, 0
+  index: 0
+game_over
+  rotate: false
+  xy: 57, 31
+  size: 31, 16
+  orig: 31, 16
+  offset: 0, 0
+  index: 0
+enemy_icon
+  rotate: false
+  xy: 13, 234
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 0
+respawn
+  rotate: false
+  xy: 0, 231
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: 0
+respawn
+  rotate: false
+  xy: 0, 240
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: 1
+respawn
+  rotate: false
+  xy: 13, 206
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: 2
+respawn
+  rotate: false
+  xy: 13, 219
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: 3
+bullet
+  rotate: false
+  xy: 8, 180
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: 0
+sidebar
+  rotate: false
+  xy: 90, 7
+  size: 32, 240
+  orig: 32, 240
+  offset: 0, 0
+  index: 0
+helmet
+  rotate: false
+  xy: 29, 29
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: 0
+clock
+  rotate: false
+  xy: 29, 44
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: 0
+cloak
+  rotate: false
+  xy: 45, 119
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: 0
+shovel
+  rotate: false
+  xy: 29, 59
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: 0
+star
+  rotate: false
+  xy: 29, 74
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: 0
+grenade
+  rotate: false
+  xy: 29, 89
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: 0
+bounce
+  rotate: false
+  xy: 45, 104
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: 0
+healthpack
+  rotate: false
+  xy: 45, 89
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: 0
+tank
+  rotate: false
+  xy: 29, 104
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: 0
+pistol
+  rotate: false
+  xy: 29, 119
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: 0
+tank_y_a
+  rotate: false
+  xy: 13, 242
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: 0
+tank_y_a
+  rotate: false
+  xy: 29, 134
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: 1
+tank_y_b
+  rotate: false
+  xy: 29, 147
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: 0
+tank_y_b
+  rotate: false
+  xy: 42, 147
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: 1
+tank_y_c
+  rotate: false
+  xy: 29, 163
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: 0
+tank_y_c
+  rotate: false
+  xy: 42, 163
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: 1
+tank_y_d
+  rotate: false
+  xy: 29, 178
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: 0
+tank_y_d
+  rotate: false
+  xy: 43, 178
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: 1
+tank_g_a
+  rotate: false
+  xy: 42, 134
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: 0
+tank_g_a
+  rotate: false
+  xy: 29, 193
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: 1
+tank_g_b
+  rotate: false
+  xy: 29, 206
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: 0
+tank_g_b
+  rotate: false
+  xy: 42, 206
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: 1
+tank_g_c
+  rotate: false
+  xy: 29, 222
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: 0
+tank_g_c
+  rotate: false
+  xy: 42, 222
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: 1
+tank_g_d
+  rotate: false
+  xy: 29, 237
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: 0
+tank_g_d
+  rotate: false
+  xy: 43, 237
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: 1

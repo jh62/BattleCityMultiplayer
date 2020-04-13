@@ -1,0 +1,89 @@
+{
+UNBINDED: {
+	value: 0
+}
+MOVE_UP: {
+	value: 51
+}
+MOVE_LEFT: {
+	value: 29
+}
+MOVE_RIGHT: {
+	value: 32
+}
+MOVE_DOWN: {
+	value: 47
+}
+ACTION: {
+	value: 62
+}
+P2_MOVE_UP: {
+	value: 19
+}
+P2_MOVE_LEFT: {
+	value: 21
+}
+P2_MOVE_RIGHT: {
+	value: 22
+}
+P2_MOVE_DOWN: {
+	value: 20
+}
+P2_ACTION: {
+	value: 149
+}
+JOY_ACTION: {
+	value: 1
+}
+JOY_ACTION: {
+	value: 2
+}
+JOY_ACTION: {
+	value: 3
+}
+JOY_ACTION: {
+	value: 9
+}
+JOY_ACCEPT: {
+	value: 5
+}
+JOY_PREVIOUS_OPTION: {
+	value: 4
+}
+JOY_CANCEL: {
+	value: 0
+}
+JOY_SHOW_INFO: {
+	value: 8
+}
+JOY_PAUSE: {
+	value: 9
+}
+CANCEL: {
+	value: 131
+}
+ACCEPT: {
+	value: 66
+}
+PREVIOUS_OPTION: {
+	value: 67
+}
+CHAT: {
+	value: 48
+}
+SHOW_INFO: {
+	value: 61
+}
+VOLUME_UP: {
+	value: 81
+}
+VOLUME_DOWN: {
+	value: 69
+}
+PAUSE: {
+	value: 44
+}
+HELP: {
+	value: 244
+}
+}
