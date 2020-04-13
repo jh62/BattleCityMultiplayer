@@ -1,0 +1,197 @@
+[
+[
+	i:F
+	i:F
+	W:F
+	t:F
+	t:F
+	t:F
+	t:F
+	t:F
+	t:F
+	t:F
+	W:F
+	i:F
+	i:F
+]
+[
+	i:F
+	i:F
+	x:F
+	t:F
+	x:F
+	w:HD
+	w:HD
+	w:HD
+	x:F
+	t:F
+	x:F
+	i:F
+	i:F
+]
+[
+	x:F
+	W:F
+	i:F
+	x:F
+	w:SUR
+	t:F
+	t:F
+	t:F
+	w:SUL
+	x:F
+	i:F
+	W:F
+	x:F
+]
+[
+	w:SBL
+	x:F
+	s:HU
+	i:F
+	t:F
+	w:HD
+	w:HD
+	w:HD
+	t:F
+	i:F
+	s:HU
+	x:F
+	w:SBR
+]
+[
+	w:F
+	x:F
+	x:F
+	s:HU
+	i:F
+	i:F
+	i:F
+	*i:F
+	i:F
+	s:HU
+	x:F
+	x:F
+	w:F
+]
+[
+	w:F
+	w:HL
+	w:F
+	x:F
+	w:HR
+	i:F
+	i:F
+	i:F
+	w:HL
+	x:F
+	w:F
+	w:HR
+	w:F
+]
+[
+	w:F
+	t:F
+	w:HR
+	w:F
+	w:HR
+	i:F
+	t:F
+	i:F
+	w:HL
+	w:F
+	w:HL
+	t:F
+	w:F
+]
+[
+	w:F
+	w:HL
+	w:F
+	x:F
+	w:HR
+	i:F
+	i:F
+	i:F
+	w:HL
+	x:F
+	w:F
+	w:HR
+	w:F
+]
+[
+	w:F
+	x:F
+	x:F
+	s:HD
+	i:F
+	*i:F
+	i:F
+	i:F
+	i:F
+	s:HD
+	x:F
+	x:F
+	w:F
+]
+[
+	w:SUL
+	x:F
+	s:HD
+	i:F
+	t:F
+	w:HU
+	w:HU
+	w:HU
+	t:F
+	i:F
+	s:HD
+	x:F
+	w:SUR
+]
+[
+	x:F
+	W:F
+	i:F
+	w:HD
+	x:F
+	t:F
+	t:F
+	t:F
+	x:F
+	w:HD
+	i:F
+	W:F
+	x:F
+]
+[
+	i:F
+	i:F
+	x:F
+	w:SUR
+	w:HD
+	w:HD
+	w:HD
+	w:HD
+	w:HD
+	w:SUL
+	x:F
+	i:F
+	i:F
+]
+[
+	i:F
+	i:F
+	W:F
+	t:F
+	t:F
+	t:F
+	t:F
+	t:F
+	t:F
+	t:F
+	W:F
+	i:F
+	i:F
+]
+]
